@@ -1,0 +1,1 @@
+Atividade 1 da matéria de informática Básica, ministrada pelo professor Davis Vasconcelos, onde a proposta era elaborar um programa, na linguagem Python, para calcular a hipotenusa de um triângulo retângulo a partir da leitura de seus catetos. 
